@@ -4,6 +4,7 @@ using System.Text;
 
 namespace GradeBook.Enums
 {
+    // TEST : CreateNewEnumGradeBookTypeTests
     public enum GradeBookType
     {
         Standard,
